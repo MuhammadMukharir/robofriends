@@ -1,3 +1,8 @@
+To see result :
+1. Clone/Download this repo
+2. In terminal run 'npm install'
+3. Then 'npm start'
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
