@@ -3,6 +3,8 @@ To see result :
 2. In terminal run 'npm install'
 3. Then 'npm start'
 
+Learning Redux is in 'usingRedux' branch of this repo
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
